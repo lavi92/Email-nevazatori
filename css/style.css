@@ -19,5 +19,8 @@ button.btn{
 }
 
 header{
-	margin-top: 50px;
+	margin: 50px auto 30px;
+}
+footer{
+	margin-bottom: 10px;
 }
