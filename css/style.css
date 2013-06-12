@@ -12,15 +12,19 @@ img.imag{
 	height:275px;
 }
 
-button.btn{
-	height:40px;
-	width:150px;
-	font-size:20px;
-}
-
 header{
 	margin: 50px auto 30px;
 }
 footer{
 	margin-bottom: 10px;
+}
+button{
+	color: #95B0E6;
+	margin: 10px;
+}
+body{
+	background-color: #FFFFCC;
+}
+iframe{
+	margin: 0px;
 }
