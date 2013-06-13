@@ -3,7 +3,7 @@ body{
 } 
 
 #video{
-	width:560px;
+	
 	height:315px;
 }
 
@@ -24,7 +24,4 @@ button{
 }
 body{
 	background-color: #FFFFCC;
-}
-iframe{
-	margin: 0px;
 }
