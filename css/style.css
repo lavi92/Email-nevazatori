@@ -26,7 +26,7 @@ color:#356aa0;
 button.btn{
 font-weight:bold;
 font-size:26px;
-margin: 10px;
+margin: 100px;
 height:180px;
 width: 180px;
 background: #356aa0; /* Old browsers */
@@ -73,9 +73,6 @@ button.btn:hover{
 	background: #265573;
 }
 
-div.navbar.nav > li :hover{
-	background: #265573;
-}
 @media only screen and (max-width: 900px){
  nav ul {
 width:100%;
